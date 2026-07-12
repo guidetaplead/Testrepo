@@ -1,16 +1,15 @@
 # Testrepo
 Testing
-[[link to new page]](Mortimer Family Rule Books {tentative}.md)
+[link to new page](Mortimer Family Rule Books {tentative}.md)
 
-[[Committee Oversite]]
+[Committee Oversite]() 
 
-[[Roles]]
+[Roles]() 
 
-[[Events and Scheduling]]
+[Events and Scheduling]() 
 
-[[Budgeting Rules]]
+[Budgeting Rules]() 
 
-[[Communication]]
+[Communication]() 
 
-[[Tradition Documentation]]
-. 
+[Tradition Documentation]() 
