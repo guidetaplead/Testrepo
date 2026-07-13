@@ -4,12 +4,12 @@ Testing
 
 [Committee Oversite](Committee Oversite.md) 
 
-[Roles]() 
+[Roles](roles.md)
 
-[Events and Scheduling]() 
+[Events and Scheduling](events-scheduling.bd)
 
-[Budgeting Rules]() 
+[Budgeting Rules](budget.md)
 
-[Communication]() 
+[Communication](Comunication.md) 
 
-[Tradition Documentation]() 
+[Tradition Documentation]()
