@@ -2,7 +2,7 @@
 Testing
 [link to new page](Mortimer Family Rule Books {tentative}.md)
 
-[Committee Oversite](Committee Oversite.md) 
+[Committee Oversite](committee-oversite.md) 
 
 [Roles](roles.md)
 
