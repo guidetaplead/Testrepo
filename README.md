@@ -7,6 +7,7 @@ Nothing here yet...
 >{insert event description message and/or poster}
  
 >Dues for the year 2027+ have been updated to $150 per-person.(See [2026-jul12-minutes](2026-jul12-minutes.googledocs) for amendment)
+
 ### Index:
 
 - Title 1 - [Family Meeting Policies](title1.0.md)
