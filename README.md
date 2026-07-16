@@ -12,7 +12,7 @@ Further description coming soon.... Displayed is a link tree of the announcement
 >Claires Current Library: *Sleepytime, The Pigeon Will Ride the Roller Coaster, Your Personal Penguin, Katy and the Big Snow, Stellaluna, Mike Mulligan and his Steam Shovel, Dear Zoo, Unicorns, There's a Wocket in my Pocket, The Napping House, Oh, the Thinks You Can Think!, Brown Bear, Brown Bear, What Do You See?, Little Gorilla, Sheep in a Jeep, Are You My Mother?, Monkeys, Llamas, The Very Hungry Caterpillar, Love You Forever, Five Little Monkies Jumping on the Bed, Chicka Chicka Boom Boom, Old MacDonald had a Farm, Sweet Child O' Mind.*
 
 >*Notice:*
->Dues for the year 2027 and going forward have been updated to $150 per-person.(See [2026-jul12-minutes](https://guidetaplead.github.io/Testrepo/2026-jul12-minutes.googledocs) for amendment)
+>Dues for the year 2027 and going forward have been updated to $100 per-person.(See [2026-jul12-minutes](https://guidetaplead.github.io/Testrepo/2026-jul12-minutes.googledocs) for amendment)
 
 ***
 ## Index:
