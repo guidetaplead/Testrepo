@@ -1,6 +1,7 @@
 >[Home](README.md)
+
 # Title 4: Event and Scheduling Policies
-Description...
+Description coming soon...
 
 Section 1: Events
 1. .

@@ -5,5 +5,5 @@
 | ------------- | --------------- |
 | Accountant    | Amy             |
 | Scribe        | Katelyn         |
-| Policy Keeper | Wade            |
+| Policy Keeper | *Wade*          |
 |               |                 |

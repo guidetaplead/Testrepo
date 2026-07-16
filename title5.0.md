@@ -1,6 +1,7 @@
 >[Home](README.md)
+
 # Title 5: Job Positions and Roles
-Description...
+Description coming soon...
 - [Currently assigned Jobs](currentlyassignedjobs.md)
 - [Currently assigned Jobs(Google Doc)](https://docs.google.com/document/d/e/2PACX-1vSfYk4pldR9GVVztTdiRLKL1hba2Psd6E-9UzWxG7bdou1uu3EymWXQL-i-22SaqJZp_TKQvQ5UVDSc/pub)
 ## Jobs
