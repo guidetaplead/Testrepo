@@ -3,12 +3,12 @@ Further description coming soon.... Displayed is a link tree of the announcement
 
 ## Announcements and Notices
 
->*Up-coming Event:* **One For the Books Birthday Party**
->Click [here](images/oneforthebooks.png "Poster") to open Event Page.
->**Location: Gramdma Carol's House**
->**Date/Time: August 30th @ 2pm**
->Claire is turning ONE! Join us for a celebration!
->What does Claire Need? Please bring her a book that you loved to read as a kid. She loves all books, especially pre-loved ones!
+>*Up-coming Event:* **One For the Books Birthday Party**<br>
+>Click [here](images/oneforthebooks.png "Poster") to open Event Page.<br>
+>**Location: Gramdma Carol's House**<br>
+>**Date/Time: August 30th @ 2pm**<br>
+>Claire is turning ONE! Join us for a celebration!<br>
+>What does Claire Need? Please bring her a book that you loved to read as a kid. She loves all books, especially pre-loved ones!<br>
 >Claires Current Library: *Sleepytime, The Pigeon Will Ride the Roller Coaster, Your Personal Penguin, Katy and the Big Snow, Stellaluna, Mike Mulligan and his Steam Shovel, Dear Zoo, Unicorns, There's a Wocket in my Pocket, The Napping House, Oh, the Thinks You Can Think!, Brown Bear, Brown Bear, What Do You See?, Little Gorilla, Sheep in a Jeep, Are You My Mother?, Monkeys, Llamas, The Very Hungry Caterpillar, Love You Forever, Five Little Monkies Jumping on the Bed, Chicka Chicka Boom Boom, Old MacDonald had a Farm, Sweet Child O' Mind.*
 
 >*Notice:*
